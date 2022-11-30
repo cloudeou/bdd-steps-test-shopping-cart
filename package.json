@@ -1,0 +1,14 @@
+{
+  "name": "bdd-steps-test-shopping-cart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bdd-init": "bdd-init"
+  },
+  "author": "Cloudeou",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudeou/telus-bdd": "^1.5.30"
+  }
+}
